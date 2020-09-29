@@ -1,0 +1,51 @@
+Présentation
+
+Depuis plus de 5 ans, La SAS Run’Zik propose des produits High tech (casques, écouteurs…)
+
+    • destination des sportifs et plus particulièrement des joggers. La marque travaille avec une cinquantaine de revendeurs sur l’hexagone
+ mais souhaite aujourd’hui renforcer sa force de vente en proposant une boutique en ligne. Les dirigeants vous contactent donc afin de
+ réaliser leur site internet qui doit être à la fois un site vitrine et une boutique e-commerce. La priorité de la société est de mettre en
+ avant leurs produits mais aussi la technologie utilisée afin de séduire les internautes.
+
+
+La marque Run’Zik propose trois produits phares
+
+
+    • Le casque confort Run'Zik pour améliorer l'acoustique
+
+    • La montre connectée pour suivre vos performances au quotidien
+
+    • Le brassard Run'Zik pour transporter votre smartphone
+
+
+Vos objectifs
+
+
+    • Trouver un nom à votre société et attribuer un rôle à chacun des membres de votre équipe OK
+
+    • Dresser plusieurs personas et rédiger un argumentaire pour justifier l’ensemble de vos choix OK
+
+    • Proposer aux associés une méthodologie agile en utilisant l’outil Trello et une découpe en plusieurs sprints. OK
+
+    • Choisir les couleurs qui vont illustrer le site internet et choisir un logo parmi la planche proposée par la société OK
+
+    • Déterminer l’arborescence de votre site internet et l’expliquer
+
+    • Réaliser une veille sur les sites concurrentiels en dressant les forces et les faiblesses de chaque site OK
+
+    • Choisir les typographies que vous allez utiliser sur le site internet Run’Zik OK
+
+    • Prendre connaissance des différentes images et textes à intégrer. OK
+
+    • Réaliser une maquette papier (zoning) pour positionner vos éléments et/ou un wireframe
+
+    • Réaliser les maquettes graphiques de l’ensemble des pages du site avec l’outil de maquettage Figma (les maquettes doivent être
+ interactives)
+
+    • Réaliser les maquettes graphiques de la version mobile
+
+    • Intégrer vos maquettes graphiques (toutes les pages) en utilisant les langages HTML, CSS et JS si besoin
+
+    • Vous devez obligatoirement utiliser GIT du début à la fin du projet.
+
+    • Réaliser un document qui accompagnera votre présentation de vendredi
