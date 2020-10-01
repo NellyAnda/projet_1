@@ -1,0 +1,26 @@
+*{
+    margin-left: 0px;
+    margin-right: 0px;
+}
+.back img{
+    width: 100%;
+    filter: brightness(60%);
+}
+
+.titre h1{
+color: #fff;
+position: absolute;
+top: 50%;
+left: 15%;
+font-size: 60px;
+}
+
+.headerText{
+    color: #fff;
+    width: 25%;
+    position: absolute;
+    top: 50%;
+    left: 73%;
+    font-size: 20px;
+    text-align: justify ;
+}

@@ -1,0 +1,43 @@
+.panier{
+    width: 80%;
+    height: 500px;
+    text-align: center;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.panier h1{
+    color: #319998;
+}
+
+.panier input{
+    background-color: #319998;
+    border-radius: 15px;
+    padding: 5px;
+    color: #fff;
+    width: 7%;
+    float: right;
+    position: relative;
+    top: 75%;
+    right: 5%;
+}
+
+@media screen and (max-width: 600px){
+
+    .panier h1{
+        font-size: 27px;
+    }
+
+    .panier input{
+        background-color: #319998;
+        border-radius: 15px;
+        padding: 5px;
+        color: #fff;
+        width: 30%;
+        float: right;
+        position: relative;
+        top: 75%;
+        right: 5%;
+    }
+}
+
