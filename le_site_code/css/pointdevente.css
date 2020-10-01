@@ -1,0 +1,33 @@
+*{
+    margin: 0 auto;
+}
+.container{
+    height: 1100px;
+    width: 80%;
+}
+
+p{
+    width: 42%;
+    padding-bottom: 5%;
+   margin-left: ;
+   margin-right: ;
+}
+
+h1{
+    color: #319998;
+    padding: 5%;
+    width: 29%;
+}
+
+img{
+    width: 50%;
+    margin-top: 5%;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+h2{
+    width: 52%;
+    margin-top: 5%;
+    color: #319998;
+}

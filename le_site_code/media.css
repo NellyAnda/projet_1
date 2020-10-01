@@ -1,0 +1,27 @@
+*{
+    margin:  0 auto;
+}
+.box{
+
+height: 1300px;
+}
+
+.box h1{
+    padding-top: 5%;
+    text-align: center;
+    color: #319998;
+}
+
+.box img{
+    margin-left: 15%;
+    margin-right: 15%;
+    margin-top: 5%;
+}
+
+.box h3{
+    width: 30%;
+    margin-left: 35%;
+    margin-right: 35%;
+    margin-top: 5%;
+    color: #319998;
+}
