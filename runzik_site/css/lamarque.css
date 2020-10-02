@@ -1,0 +1,143 @@
+* {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+}
+
+nav img {
+    width: 37px;
+}
+
+nav {
+    width: 100%;
+    margin: 0 auto;
+    position: sticky;
+    top: 0px;
+}
+
+nav ul{
+    list-style-type: none;
+    background-color: #f58e3c;
+}
+
+nav ul li{
+    float: left;
+    width: 20%;
+    text-align: center;
+    position: relative;
+}
+
+nav ul::after{
+    content: "";
+    display: table;
+    clear: both;
+}
+
+nav li {
+    padding: 3px 0;
+}
+
+nav a{
+    font-family: montserrat;
+    font-weight: 600;
+    display: block;
+    text-decoration: none;
+    color: white;
+    border-right: solid 2px white;
+    padding: 10px 0px;
+}
+nav li:last-child a{
+    border: 0;
+}
+
+nav a:hover{
+    background-color: #319998;
+}
+
+nav ul li:hover .sous{
+    display: block;
+}
+
+nav .logo {
+    width: 200px;
+}
+
+nav .logo img {
+    width: 150px;
+}
+
+.topofnav {
+    width: 100%;
+    text-align: center;
+}
+
+.topofnav div {
+    display: inline;
+    padding: 0;
+}
+
+.network {
+    width: 120px;
+    float: left;
+    margin-top: 1%;
+    margin-left: 2%;
+}
+
+
+.other {
+    padding-right: 0;
+    width: 120px;
+    float: right;
+    margin-top: 1%;
+    margin-right: 2%;
+}
+
+.sous {
+    display: none;
+    box-shadow: 0px 1px 2px #CCC;
+    background-color: #f58e3c;
+    position: absolute;
+    width: 100%;
+    z-index: 1000;
+}
+
+.sous li{
+    float: none;
+    width: 100%;
+    text-align: left;
+}
+.sous a{
+    text-align: center;
+    padding: 10px;
+    border-bottom: none;
+    border-right: none;
+}
+.sous a:hover{
+    border-bottom: none;
+    background-color: #319998;
+}
+
+section {
+    background-image: url(../img/5583.png);
+    background-size: cover;
+    height: 750px;
+}
+
+h1 {
+    color: #fff;
+    font-family: montserrat;
+    font-size: 40px;
+    width: 230px;
+    padding: 50px 0px 0px 100px;
+    float: left;
+}
+
+p {
+    padding: 50px 0 50px 67%;
+    color: #FFF;
+    font-family: raleway;
+    font-size: 20px;
+    font-weight: 500;
+    width: 400px;
+}

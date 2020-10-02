@@ -39,11 +39,16 @@ nav li {
 }
 
 nav a{
+    font-family: montserrat;
+    font-weight: 600;
     display: block;
     text-decoration: none;
     color: white;
     border-right: solid 2px white;
     padding: 10px 0px;
+}
+nav li:last-child a{
+    border: 0;
 }
 
 nav a:hover{
@@ -111,4 +116,26 @@ nav .logo img {
 .sous a:hover{
     border-bottom: none;
     background-color: #319998;
+}
+
+section div {
+    height: 800px;
+    text-align: center;
+    background-color: #CCC;
+}
+
+h1 {
+    color: #319998;
+    font-family: montserrat;
+    font-size: 34px;
+    padding-top: 50px;
+}
+
+section div a {
+    font-family: montserrat;
+    font-weight: 400;
+    color: #fff;
+    border-radius: 20px;
+    background-color: #319998;
+    padding: 5px 15px;
 }
